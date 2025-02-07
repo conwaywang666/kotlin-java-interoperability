@@ -1,2 +1,1 @@
-# kotlin-java-interoperability
-A project testing calling Kotlin function from Java
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
